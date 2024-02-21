@@ -9,6 +9,10 @@
 - [Gold Price Prediction](https://drive.google.com/file/d/1ADPTsWGvbHcAr-av35ZpCpl_N8zMSjh3/view?usp=sharing)
 - [Heart Disease Diagnosis](https://drive.google.com/file/d/19vxKBYDoOgZjVtz7UZaQn0fxoXF6UBDj/view?usp=sharing)
 - [Customer Segmantation](https://drive.google.com/file/d/17APzqEl4kAlsoA8tvLUD9axW2sWLsxc9/view?usp=sharing)
+- [Medical Insurance Cost Prediction](https://drive.google.com/file/d/1hKbUxWqKkr3WKcHHX5NAjR1RehExOpCl/view?usp=sharing)
+- [Big Mart Sales Prediction](https://drive.google.com/drive/folders/1xH5aIwgRMSBUfMrhLTqKPLXSMl4YHO8N?usp=sharing)
+- [Parkinsons Disease Detection](https://drive.google.com/file/d/1KmEb29xxd_R3TakxUNQARAaoiM5dgZ4Y/view?usp=sharing)
+- [Movie Recommendation System](https://drive.google.com/file/d/10Sl7Eil46X4ugk1FI270PFzIyViNCDtx/view?usp=sharing)
 
 > [!NOTE]
 > These datasets are collected from various sources mostly from kaggle.
