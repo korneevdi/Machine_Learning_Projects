@@ -7,6 +7,8 @@
 - [Wine Quality Prediction](https://drive.google.com/file/d/1Y6_siTnjHoBGG6BhSIf7GpCkSLEZ6IHL/view?usp=sharing)
 - [Car Price Prediction](https://drive.google.com/file/d/130mqLrDJV-Q3-xgxUhAHGxZLse5jcv-e/view?usp=sharing)
 - [Gold Price Prediction](https://drive.google.com/file/d/1ADPTsWGvbHcAr-av35ZpCpl_N8zMSjh3/view?usp=sharing)
+- [Heart Disease Diagnosis](https://drive.google.com/file/d/19vxKBYDoOgZjVtz7UZaQn0fxoXF6UBDj/view?usp=sharing)
+- [Customer Segmantation](https://drive.google.com/file/d/17APzqEl4kAlsoA8tvLUD9axW2sWLsxc9/view?usp=sharing)
 
 > [!NOTE]
 > These datasets are collected from various sources mostly from kaggle.
